@@ -18,3 +18,6 @@ Lets now check how good the computer can get,
 The Computer will start to learn and play Mario
 
 # G00D LUCK
+
+For doubts email me at:
+atinsaki@gmail.com
