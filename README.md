@@ -17,6 +17,11 @@ Lets now check how good the computer can get,
 
 The Computer will start to learn and play Mario
 
+## Result
+<p align="center">
+<img src="https://github.com/crypto-code/Mario-AI/blob/master/assets/mario.gif" align="middle" />   </p>
+After 16 generations with 100 different species, Mario finally learned to play the game.
+
 # G00D LUCK
 
 For doubts email me at:
